@@ -1,0 +1,19 @@
+{
+  "name": "vidly-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gostar",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "joi-objectid": "^3.0.1",
+    "mongoose": "^5.9.16",
+    "no-internet": "^1.5.2"
+  }
+}
